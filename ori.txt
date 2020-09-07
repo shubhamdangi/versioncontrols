@@ -1,2 +1,4 @@
 first line changed added
+and also changed the second line
 this is the first line of ori . text (1st file)
+so also added fourth line
