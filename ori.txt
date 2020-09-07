@@ -1,3 +1,4 @@
+heading was missing so added a heading 
 first line changed added
 and also changed the second line
 this is the first line of ori . text (1st file)
